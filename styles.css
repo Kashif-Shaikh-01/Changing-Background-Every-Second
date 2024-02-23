@@ -1,0 +1,22 @@
+body {
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #212121;
+  color: aliceblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.start,
+.stop {
+  margin: 20px;
+  cursor: pointer;
+  font-size: 2rem;
+  padding: 5px 25px;
+  width: 200px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+  background-color: blueviolet;
+  font-weight: 600;
+  border: 5px solid #fff;
+}
